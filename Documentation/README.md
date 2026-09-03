@@ -16,4 +16,4 @@ For Appendix, visit: https://github.com/andychang008/Office-Automation-Software/
 
 For directions to access the product, additional information, and more, visit: https://github.com/andychang008/Office-Automation-Software/blob/main/README.md
 
-For the actual product (A.K.A.) source code, visit the main repository at: https://github.com/andychang008/Office-Automation-Software/tree/main
+For the actual product (A.K.A. source code), visit: https://github.com/andychang008/Office-Automation-Software/tree/main/Product
