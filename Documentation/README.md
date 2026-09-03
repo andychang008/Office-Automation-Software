@@ -1,0 +1,1 @@
+These documentations were also a part of my submission to the International Baccalaureate during the May 2026 cycle. The file names starting with "Crit_" refer to different assessment criteria for the Computer Science Higher Level Internal Assessment Examination. The appendix was for interview with my client, which is the main purpose of the internal assessment.
